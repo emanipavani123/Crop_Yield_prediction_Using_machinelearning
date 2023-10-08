@@ -4,8 +4,8 @@ This project aims to develop a web application using Flask and a Random Forest a
 ## Getting Started
 To get started with this project, you will need to have Python 3 and Flask installed on your machine. You can install these requirements using the following commands:
 
-pip install python==3.8.10
-pip install flask
+pip install python==3.8.10<br>
+pip install flask<br>
 Once you have the requirements installed, you can clone this repository and install the required dependencies using the following commands:
 
 git clone https://github.com/your-username/crop-production-prediction.git
