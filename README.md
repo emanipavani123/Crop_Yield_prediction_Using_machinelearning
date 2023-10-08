@@ -8,7 +8,7 @@ pip install python==3.8.10<br>
 pip install flask<br>
 Once you have the requirements installed, you can clone this repository and install the required dependencies using the following commands:
 
-git clone https://github.com/your-username/crop-production-prediction.git
+git clone https://github.com/emanipavani123/Crop_Yield_prediction_Using_machinelearning.git<br>
 cd crop-production-prediction
 pip install -r requirements.txt
 Running the Application
